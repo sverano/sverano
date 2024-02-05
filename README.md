@@ -1,6 +1,6 @@
 <h2> Salut 👋 , Je suis DJATANG Herman.</h2>
 
-Je suis un développeur de logiciels spécialisé dans la création d'application mobile Natif Andooid & iOS etd'applications mobiles cross-plateforme innovant et autre.
+Je suis un développeur de logiciels spécialisé dans la création d'application mobile Natif Andooid & iOS et d'applications mobiles cross-plateforme innovant et autre.
 
 <hr>
 
